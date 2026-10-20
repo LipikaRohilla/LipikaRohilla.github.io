@@ -3,9 +3,9 @@
 
 <div align="center">
 
-### Product Manager | Consultant | Ex - Senior Software Engineer
+### Product Manager | Consultant | Ex - Senior Software Engineer  
 
-Building products that solve real customer problems through data, experimentation, and innovation.
+Building products that solve real customer problems through data, experimentation, and innovation.  
 
 [🌐 Portfolio](https://yourname.github.io) •
 [💼 LinkedIn](https://linkedin.com/lipikarohilla) •

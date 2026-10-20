@@ -32,22 +32,10 @@ I specialize in:
 
 ---
 
-# 📊 Impact Snapshot
-
-| Metric | Impact |
-|----------|----------|
-| Products Delivered | 15+ |
-| Users Impacted | 1M+ |
-| Revenue Influenced | $5M+ |
-| Teams Led | 10+ |
-| Experiments Conducted | 100+ |
-
----
-
 # 💼 Experience
 
-## Senior Product Manager
-### Company Name | 2023 - Present
+## Consultant
+### Infosys Consulting | May 2026 - Present
 
 #### Key Achievements
 
@@ -61,8 +49,8 @@ I specialize in:
 
 ---
 
-## Product Manager
-### Company Name | 2020 - 2023
+## Senior Software Engineer
+### Newgen Software Pvt. Ltd. | July 2021 - July 2024
 
 #### Key Achievements
 
